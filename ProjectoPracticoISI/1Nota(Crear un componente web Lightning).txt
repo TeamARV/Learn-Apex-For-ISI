@@ -1,0 +1,69 @@
+para crear
+ingrese sfdx force:lightning:component:create -n myFirstWebComponent -d force-app/main/default/lwc --type lwc y confirme el comando con la tecla Entrar.
+
+A continuación se describen los parámetros que se utilizaron en el comando.
+
+    -n: define el nombre de la carpeta del componente web Lightning y de sus archivos.
+    -d: define el directorio de destino en el que se creará el componente web Lightning. El directorio de destino debe tener el nombre lwc
+    --type: especifica que desea crear un componente web Lightning.
+
+
+ir a la seccion lwc en force app
+
+agrege en el xml 
+
+documentacion para mirar https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.reference_configuration_tags
+
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+   <apiVersion>51.0</apiVersion>
+   <isExposed>true</isExposed>
+   <targets>
+       <target>lightning__AppPage</target>
+       <target>lightning__RecordPage</target>
+       <target>lightning__HomePage</target>
+   </targets>
+</LightningComponentBundle>
+
+
+2 en el js agregar 
+
+import { LightningElement, track } from 'lwc';
+export default class MyFirstWebComponent extends LightningElement {
+    @track
+    contacts = [
+        {
+            Id: 1,
+            Name: 'Amy Taylor',
+            Title: 'VP of Engineering',
+        },
+        {
+            Id: 2,
+            Name: 'Michael Jones',
+            Title: 'VP of Sales',
+        },
+        {
+            Id: 3,
+            Name: 'Jennifer Wu',
+            Title: 'CEO',
+        },
+    ];
+}
+
+
+
+3 ahora en el html agregar 
+
+<template>
+
+    <lightning-card title="ContactInformation" icon-name="custom:custom14">
+        <div class="slds-m-around_medium">
+           <template for:each={} for:item="contact">
+              <div>
+                 {contact.Name}, {contact.Title}
+              </div>
+           </template>
+        </div>
+     </lightning-card>
+    
+</template>
