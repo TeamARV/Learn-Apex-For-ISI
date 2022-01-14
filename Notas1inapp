@@ -1,0 +1,16 @@
+Nueva app pasos
+
+1.	Setup -> app manager (gestor de aplicacion) 
+2.	Objetc manager (gestor de objetos) Nota: objetos nombre normal , los custom nombre_C
+3.	Exponer en pestaña   tab (Fichas)  -> puedo personalizar 
+4.	Vuelvo a ir al gestor de aplicaciones y agrego la aplicación 
+
+Formulas  Nota: las formulas se evalúan y no se guardan :
+Campo url
+Campo formula  --   IMAGE(Imagen__c, Name)
+
+Puedo crear valores value set globales
+
+Generador de aplicaciones Lightning
+Lightning App Builder 
+Branding  (temas y marca)
