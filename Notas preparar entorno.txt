@@ -31,6 +31,18 @@ See the Salesforce CLI Setup Guide for complete installation instructions.
 
     *numero 4 loguearme en la organizacion
     https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_auth_web.htm#cli_reference_auth_web_login
+    Autorizar Dev Hub
+
+El siguiente paso consiste en autenticar Dev Hub. Si utiliza un Trailhead Playground, en la unidad Obtener su nombre de usuario y contraseña de Trailhead Playground encontrará información acerca de cómo obtener las credenciales necesarias para el paso siguiente.
+
+    En Visual Studio Code, pulse Command + Mayús + P en un Mac, o Ctrl + Mayús + P en Windows o Linux.
+    Ingrese sfdx.
+    Seleccione SFDX: Authorize a Dev Hub (Autorizar un Dev Hub).
+    Inicie sesión utilizando las credenciales de su organización Dev Hub.
+    Haga clic en Allow (Permitir). 
+    --------------
+
+    * paso 5 facil
 
     loguearme : 
     sfdx auth:web:login -a riveravegaandres@brave-goat-e0fwkv.com -s
