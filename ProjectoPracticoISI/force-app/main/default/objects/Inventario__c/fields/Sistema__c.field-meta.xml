@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sistema__c</fullName>
+    <externalId>false</externalId>
+    <label>Sistema</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Nes🕹️</fullName>
+                <default>false</default>
+                <label>Nes🕹️</label>
+            </value>
+            <value>
+                <fullName>Super Nintendo🕹️</fullName>
+                <default>false</default>
+                <label>Super Nintendo🕹️</label>
+            </value>
+            <value>
+                <fullName>Megadrive🕹️</fullName>
+                <default>false</default>
+                <label>Megadrive🕹️</label>
+            </value>
+            <value>
+                <fullName>Nintendo 64🕹️</fullName>
+                <default>false</default>
+                <label>Nintendo 64🕹️</label>
+            </value>
+            <value>
+                <fullName>Game Boy🕹️</fullName>
+                <default>false</default>
+                <label>Game Boy🕹️</label>
+            </value>
+            <value>
+                <fullName>Playstation🕹️</fullName>
+                <default>false</default>
+                <label>Playstation🕹️</label>
+            </value>
+            <value>
+                <fullName>Dreamcast🕹️</fullName>
+                <default>false</default>
+                <label>Dreamcast🕹️</label>
+            </value>
+            <value>
+                <fullName>PC 🖥️</fullName>
+                <default>false</default>
+                <label>PC 🖥️</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

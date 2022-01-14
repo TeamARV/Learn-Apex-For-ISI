@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rating</fullName>
+    <inlineHelpText>This indicates the likelihood of a sale being made to this account in the next six months (Esto indica la posibilidad de que se realice una venta en esta cuentas en los seis próximos meses). Cold indicates not likely (Importancia baja indica sin posibilidad). Warm indicates quite likely</inlineHelpText>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+</CustomField>
