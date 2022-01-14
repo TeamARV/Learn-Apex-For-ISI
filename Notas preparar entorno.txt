@@ -1,0 +1,44 @@
+https://trailhead.salesforce.com/en/content/learn/projects/set-up-your-lightning-web-components-developer-tools
+
+See the Salesforce CLI Setup Guide for complete installation instructions.
+
+    Install the CLI from https://developer.salesforce.com/tools/sfdxcli.
+    Confirm the CLI is properly installed and on the latest version by running the following command from the command line.
+
+    sfdx update
+
+    pasos son 
+     
+     *numero 1
+    npm install sfdx-cli --global
+
+    para validar sfdx --version
+
+    npm update --global sfdx-cli   // en caso de necesitar update
+
+     *numero 2
+    extensiones de Visual :D
+    - Salesforce Extension Pack
+
+     *numero 3       Nota: este paso no voy hacer por ahora....
+     activar en el playgroud modo Developer Hub
+
+     
+    Inicie su Trailhead Playground.
+    Haga clic en Icono de engranaje de Setup (Configuración). y seleccione Setup (Configuración).
+    En Setup (Configuración), ingrese Dev Hub en el cuadro Búsqueda rápida y, a continuación, seleccione Dev Hub.
+    Para activar Dev Hub, haga clic en Enable (Activar).
+
+    *numero 4 loguearme en la organizacion
+    https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_auth_web.htm#cli_reference_auth_web_login
+
+    loguearme : 
+    sfdx auth:web:login -a riveravegaandres@brave-goat-e0fwkv.com -s
+
+    para ver lista de orgs
+    sfdx force:org:list
+
+    *numero 5 crear proyecto:
+
+    ctrl + shif + p
+    crear new proyect
