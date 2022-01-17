@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Aantal maanden vanaf vandaag voor te maken open Opportunities bij Terugkerende donaties met onbepaalde duur. WAARSCHUWING: kleinere waarde resulteert in verwijdering van extra Opportunities. Verhogen start batchproces voor toevoegen van Opportunities.</help>
+    <label></label>
+    <name>npe03__Opportunity_Forecast_Months__c</name>
+</CustomFieldTranslation>

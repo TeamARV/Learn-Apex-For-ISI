@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Cumule les totaux d’opp. fermées gagnées selon les rôles de contact d’opp. attribués. Les cumuls de crédits indirects ne se produisent que dans la tâche nocturne, mais vous pouvez les exécuter manuellement dans les paramètres de cumul de dons par lot.</help>
+    <label></label>
+    <name>npo02__Enable_Soft_Credit_Rollups__c</name>
+</CustomFieldTranslation>

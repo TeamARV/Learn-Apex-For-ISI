@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>De gebruikte waarde als het veld voor geslacht/gender van Contactpersoon niet gelijk is aan de waarden in Aangepast label voor Man of Vrouw en er uit de Aanhef voor Contactpersoon geen geslacht/gender kan worden afgeleid.</help>
+    <label></label>
+    <name>npe4__Neutral__c</name>
+</CustomFieldTranslation>

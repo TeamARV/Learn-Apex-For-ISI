@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>世帯取引先に使用される取引先レコードタイプの ID。何も選択しない場合、取引先にはユーザのデフォルト取引先レコードタイプが設定されます。</help>
+    <label></label>
+    <name>npe01__HH_Account_RecordTypeID__c</name>
+</CustomFieldTranslation>

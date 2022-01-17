@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Opportunitycontactpersoonsrollen die u wilt opnemen in totaliseringen van &quot;soft credits&quot;. Gebruik CTRL+klikken of Command+klikken om meerdere rollen te selecteren.</help>
+    <label></label>
+    <name>npo02__Soft_Credit_Roles__c</name>
+</CustomFieldTranslation>

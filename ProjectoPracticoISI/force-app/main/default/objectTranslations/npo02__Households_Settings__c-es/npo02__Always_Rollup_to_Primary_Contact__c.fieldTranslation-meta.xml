@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Salesforce SIEMPRE totalizará los datos de donaciones con el Contacto principal de la oportunidad y con la cuenta o registro de hogar, incluso si la oportunidad no es de un individuo. Si no se selecciona, solo la organización recibirá el crédito.</help>
+    <label></label>
+    <name>npo02__Always_Rollup_to_Primary_Contact__c</name>
+</CustomFieldTranslation>

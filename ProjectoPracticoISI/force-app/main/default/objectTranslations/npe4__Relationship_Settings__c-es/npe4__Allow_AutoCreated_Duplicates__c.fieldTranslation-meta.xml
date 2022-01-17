@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Se eliminan los duplicados de relaciones creadas automáticamente para evitar la creación de registros duplicados entre contactos. Al seleccionarse desactiva este comportamiento y permite la creación de múltiples relaciones del mismo tipo entre contactos.</help>
+    <label></label>
+    <name>npe4__Allow_AutoCreated_Duplicates__c</name>
+</CustomFieldTranslation>

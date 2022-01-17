@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Aantal terugkerende donaties die niet met succes zijn bijgewerkt in de laatste batchverwerking.</help>
+    <label></label>
+    <name>npe03__Number_of_Failures__c</name>
+</CustomFieldTranslation>

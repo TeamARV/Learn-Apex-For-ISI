@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>decorate</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>richTextValue</name>
+                    <value>&lt;p style=&quot;text-align: right;&quot; class=&quot;ql-indent-1&quot;&gt;&lt;span style=&quot;color: rgb(38, 81, 114); font-size: 12pt; font-family: Arial, sans-serif;&quot;&gt;Andrés Rivera Vega&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: right;&quot; class=&quot;ql-indent-1&quot;&gt;&lt;span style=&quot;color: rgb(38, 81, 114); font-size: 12pt; font-family: Arial, sans-serif;&quot;&gt;Developer&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: right;&quot; class=&quot;ql-indent-1&quot;&gt;&lt;span style=&quot;color: rgb(38, 81, 114); font-family: Arial, sans-serif;&quot;&gt;Celular: (+57) 317 5535199&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: right;&quot; class=&quot;ql-indent-1&quot;&gt;&lt;a href=&quot;http://www.isi.com.co/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; style=&quot;color: rgb(38, 81, 114); font-family: Arial, sans-serif;&quot;&gt;www.isi.com.co&lt;/a&gt;&lt;/p&gt;&lt;p style=&quot;text-align: right;&quot; class=&quot;ql-indent-1&quot;&gt;&lt;span style=&quot;color: rgb(38, 81, 114); font-family: Arial, sans-serif;&quot;&gt;Dirección: Calle 100 #47 A 42 of. 103&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: right;&quot; class=&quot;ql-indent-1&quot;&gt;&lt;span style=&quot;color: rgb(38, 81, 114); font-family: Arial, sans-serif;&quot;&gt;Ed.Albert - Bogotá, Colombia&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: right;&quot; class=&quot;ql-indent-1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(38, 81, 114); font-family: Arial, sans-serif;&quot;&gt; &lt;/span&gt;&lt;a href=&quot;https://www.linkedin.com/company/ingenio-soluciones-informaticas-ltda./&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; style=&quot;font-family: Arial, sans-serif;&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/CJIHwJscRN-52BHyWk2-sze4So1rzC0qP4Qo4mgCDurpj5B6DAQl3sSyZIUj96Ze4PWtvzDTST5PbqM2ikTdqHA5_tkQaeO61P4FoZtsKD5bOGSzHTbEmSdSAEUK3pggXtonvyGn&quot;&gt;&lt;/a&gt;&lt;span style=&quot;font-family: Arial, sans-serif; color: rgb(38, 81, 114);&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://www.instagram.com/isitec_col/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; style=&quot;font-family: Arial, sans-serif;&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/A64NBbpc3jdLapB5rEflAvTm6t8XwvMri3vRr7EKuu6LJcl5W3YrJ2fDVMTuEHTnd1jtQUllkEnrTuawT2daau_gW3SB46SnnJP85txLYO3OEDq16uE1gFcnSZFrP9QgoQynmkEL&quot;&gt;&lt;/a&gt;&lt;span style=&quot;font-family: Arial, sans-serif; color: rgb(38, 81, 114);&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://www.facebook.com/Ingenio.Soluciones.Informaticas.ISI&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; style=&quot;font-family: Arial, sans-serif;&quot;&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/XuC6jjf0RGp28xa5ZfxeBpDEiTQfDqOh5jnzN-kQeRAkhWizX3zeOzqHQ5D9V_PNtYz9Y63ynr_zrdD4j0iUfr-tU6D4gFU2zYPNrkW7srpvmv0PA3tZ4JXhFiM9R1L7n9KbS4Ep&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;h5&gt;¡Contáctanos!&lt;/h5&gt;&lt;h2&gt;Solicita Mayor Información&lt;/h2&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://www.isi.com.co/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; style=&quot;font-size: 20px; font-family: Arial, sans-serif; color: rgb(122, 178, 222);&quot;&gt;www.isi.com.co&lt;/a&gt;&lt;/p&gt;&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;&lt;h4&gt;ESTÁS EN EL LUGAR CORRECTO.&lt;/h4&gt;&lt;p&gt;¿Necesitas planeación, control y consolidación financiera para tu empresa? Ingenio Soluciones Informáticas -ISI- te ofrece soluciones para el desempeño empresarial.&lt;/p&gt;&lt;p&gt;Las competencias tecnológicas desarrolladas por el equipo de profesionales de ISI están diseñadas para satisfacer las necesidades de tus clientes y sus empresas. ¡Conócelas!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Nuestra Oficina en Colombia&lt;/h3&gt;&lt;p&gt;Calle 100 #47A 42 ofc. 103. Bogotá DC- Colombia&lt;/p&gt;&lt;p&gt;+57 1 5897459&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;mailto:administracion@isi.com.co&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;administracion@isi.com.co&lt;/a&gt;&lt;/p&gt;</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:richText</componentName>
+            </componentInstance>
+        </itemInstances>
+        <name>column1</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentName>myFirstWebComponent</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>decorate</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>richTextValue</name>
+                    <value>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;Nuestros Clientes&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;&lt;span class=&quot;ql-cursor&quot;&gt;﻿&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;img src=&quot;https://brave-goat-e0fwkv-dev-ed--c.documentforce.com/servlet/rtaImage?refid=0EM5f000000R5t8&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/p&gt;</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:richText</componentName>
+            </componentInstance>
+        </itemInstances>
+        <name>column2</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <masterLabel>page1</masterLabel>
+    <template>
+        <name>flexipage:appHomeTemplateTwoColumns</name>
+    </template>
+    <type>AppPage</type>
+</FlexiPage>

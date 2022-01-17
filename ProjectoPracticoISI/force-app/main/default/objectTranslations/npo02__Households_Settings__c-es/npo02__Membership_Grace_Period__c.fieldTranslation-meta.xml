@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>La duración del período de gracia (en días) después de que la afiliación vence (última fecha de finalización) antes que el estado se cambie de &quot;Período de gracia&quot; a &quot;Vencido&quot;. Tiene 30 días como valor predeterminado.</help>
+    <label></label>
+    <name>npo02__Membership_Grace_Period__c</name>
+</CustomFieldTranslation>

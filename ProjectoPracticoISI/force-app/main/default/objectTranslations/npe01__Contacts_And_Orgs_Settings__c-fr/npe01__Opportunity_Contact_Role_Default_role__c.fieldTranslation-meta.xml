@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Le rôle contact par défaut attribué automatiquement au contact principal de l’opportunité lorsque le compte de l’opportunité est un compte foyer, un-à-un, ou individuel.</help>
+    <label></label>
+    <name>npe01__Opportunity_Contact_Role_Default_role__c</name>
+</CustomFieldTranslation>

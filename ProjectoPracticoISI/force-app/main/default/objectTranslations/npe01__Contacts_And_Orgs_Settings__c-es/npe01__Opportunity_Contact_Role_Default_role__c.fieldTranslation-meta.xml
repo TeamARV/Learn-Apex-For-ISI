@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>La función del contacto predeterminada asignada automáticamente al contacto principal de la oportunidad cuando la cuenta de la oportunidad es una cuenta Hogar, Uno-a-Uno o Individuo.</help>
+    <label></label>
+    <name>npe01__Opportunity_Contact_Role_Default_role__c</name>
+</CustomFieldTranslation>

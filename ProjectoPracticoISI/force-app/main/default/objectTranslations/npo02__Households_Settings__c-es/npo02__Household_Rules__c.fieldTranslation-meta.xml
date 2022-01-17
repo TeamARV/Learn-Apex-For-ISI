@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Especifica qué contactos tendrán objetos Hogar creados automáticamente. Tenga en cuenta que esto solo se utiliza para contactos que tienen el modelo de cuenta Uno a uno o Individuo. Esto se ignorará para contactos con el modelo de cuenta Hogar.</help>
+    <label></label>
+    <name>npo02__Household_Rules__c</name>
+</CustomFieldTranslation>

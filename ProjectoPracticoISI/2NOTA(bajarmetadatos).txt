@@ -1,0 +1,24 @@
+
+
+sfdx force:source:retrieve -m CustomTab         // descargar un tipo en especifico 
+
+package xml  de sales force
+
+- recomienda usar plugin de visual estudio sales force package.xml generador
+Salesforce Package.xml Generator Extension for VS Code
+
+
+esto se hace cuando no se tiene activo el SOURCETRACKING :
+
+PASO 1 Generar mediante la extension :
+
+Open the command palette (press Ctrl+Shift+P on Windows or Linux, or Cmd+Shift+P on macOS) and run SFDX Package.xml Generator: Choose Metadata Components command.
+In Choose Metadata Components for Package.xml page, select the Metadata you need and click on Update Package.xml button.
+Package.xml file opens up with the selected metadata components.
+
+PASO 2:
+
+Copio y guardo el package generado y lo descargo todo con el comando de abajo
+
+sfdx force:source:retrieve -x .\package.xml
+

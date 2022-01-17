@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Die Standardkontaktrolle, die automatisch dem primären Kontakt der Opportunity zugewiesen wird, wenn der Account der Opportunity ein Haushalt, ein Ein-zu-Eins-Account oder ein Einzelperson-Account ist.</help>
+    <label></label>
+    <name>npe01__Opportunity_Contact_Role_Default_role__c</name>
+</CustomFieldTranslation>

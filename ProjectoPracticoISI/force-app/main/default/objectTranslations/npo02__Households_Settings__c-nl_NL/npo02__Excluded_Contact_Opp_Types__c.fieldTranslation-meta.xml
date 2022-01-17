@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Opportunities met deze waarde in de keuzelijst Type worden niet meegenomen in totaliseringen voor Contactpersoon.</help>
+    <label></label>
+    <name>npo02__Excluded_Contact_Opp_Types__c</name>
+</CustomFieldTranslation>

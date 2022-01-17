@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Proporcione un valor para totalizaciones de &quot;N días&quot;, donde &quot;N&quot; es el número de días desde hoy hacia el pasado. Este valor toma de forma predeterminada totalizar los últimos 365 días.</help>
+    <label></label>
+    <name>npo02__Rollup_N_Day_Value__c</name>
+</CustomFieldTranslation>

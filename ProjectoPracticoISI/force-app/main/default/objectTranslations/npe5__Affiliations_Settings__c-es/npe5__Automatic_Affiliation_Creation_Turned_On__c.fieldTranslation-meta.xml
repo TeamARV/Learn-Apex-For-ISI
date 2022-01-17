@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Crea o actualiza afiliaciones para contactos conectados con cuentas de la organización cuando se modifica el campo Organización o el campo Afiliación principal.</help>
+    <label></label>
+    <name>npe5__Automatic_Affiliation_Creation_Turned_On__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Totaliza oportunidades Cerradas/Ganadas con registros de Contacto por funciones de contacto de oportunidades. Las totalizaciones de créditos blandos se hacen en lotes nocturnos, y manualmente desde la configuración de Lote de donaciones de totalización.</help>
+    <label></label>
+    <name>npo02__Enable_Soft_Credit_Rollups__c</name>
+</CustomFieldTranslation>

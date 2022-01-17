@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label></label>
+        <name>npsp__BDE_Entry_FS</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>npsp__BDE_List_FS</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>npsp__Manage_Household_Custom</name>
+    </fieldSets>
+    <layouts>
+        <layout>Account Layout</layout>
+        <sections>
+            <label></label>
+            <section>Vínculos personalizados</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label></label>
+        <name>New_Energy_Audit</name>
+    </quickActions>
+    <recordTypes>
+        <description>1 人以上の個人を含む世帯を表す取引先</description>
+        <label>世帯取引先</label>
+        <name>HH_Account</name>
+    </recordTypes>
+    <recordTypes>
+        <description>団体を表す取引先</description>
+        <label>団体</label>
+        <name>Organization</name>
+    </recordTypes>
+    <webLinks>
+        <label></label>
+        <name>Billing</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Map_Location</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>npsp__Manage_Household</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>npsp__New_Gift</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>npsp__Recalculate_Rollups</name>
+    </webLinks>
+</CustomObjectTranslation>

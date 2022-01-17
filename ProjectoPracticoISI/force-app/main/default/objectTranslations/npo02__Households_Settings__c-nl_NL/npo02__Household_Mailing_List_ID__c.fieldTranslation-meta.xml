@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>De rapport-ID van het Rapport Verzendlijst huishouden, die wordt gebruikt voor verzendlijsten zonder duplicaten van Huishouden voor Campagne. Rapport moet van het type &quot;Campagnes met Contactpersonen&quot; zijn, waarbij Lidstatus niet gelijk is aan &apos;Duplicaat&apos;.</help>
+    <label></label>
+    <name>npo02__Household_Mailing_List_ID__c</name>
+</CustomFieldTranslation>

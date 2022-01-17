@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Les opportunités qui ont cette valeur dans la liste de sélection Type ne seront pas incluses dans les cumuls du contact.</help>
+    <label></label>
+    <name>npo02__Excluded_Contact_Opp_Types__c</name>
+</CustomFieldTranslation>

@@ -22,14 +22,14 @@
                 <label>GOG</label>
             </value>
             <value>
-                <fullName>STEAM</fullName>
-                <default>false</default>
-                <label>STEAM</label>
-            </value>
-            <value>
                 <fullName>NULL</fullName>
                 <default>false</default>
                 <label>NULL</label>
+            </value>
+            <value>
+                <fullName>STEAM</fullName>
+                <default>false</default>
+                <label>STEAM</label>
             </value>
         </valueSetDefinition>
     </valueSet>

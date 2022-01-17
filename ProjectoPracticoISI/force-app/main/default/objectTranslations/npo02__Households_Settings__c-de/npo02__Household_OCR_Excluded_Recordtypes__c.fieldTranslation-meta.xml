@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Bei Kontaktdatensatztypen, die aus der autom. Erstellung der Kontaktrollen für Haushalt-Mitglieder ausgeschlossen werden, würden diese Kontakte bei Erstellung der Opportunity keine Kontaktrolle für Haushalt-Mitglieder erhalten.</help>
+    <label></label>
+    <name>npo02__Household_OCR_Excluded_Recordtypes__c</name>
+</CustomFieldTranslation>

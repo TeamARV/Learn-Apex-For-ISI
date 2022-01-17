@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Het type te maken Relatie tussen het basisobject en het opzoekobject. Het opzoekobject krijgt de &quot;wederzijdse&quot; relatie krijgen, indien beschikbaar.</help>
+    <label></label>
+    <name>npe4__Relationship_Type__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Totaliseert totalen Gesl./gew. opportunities naar records voor Contactpersoon voor toegewezen Oppty.-contactpers.-rollen. Totaliseringen &quot;soft credits&quot; zijn alleen &apos;s nachts in batches; handmatig uitvoeren via instellingen Batch van donaties totaliseren.</help>
+    <label></label>
+    <name>npo02__Enable_Soft_Credit_Rollups__c</name>
+</CustomFieldTranslation>

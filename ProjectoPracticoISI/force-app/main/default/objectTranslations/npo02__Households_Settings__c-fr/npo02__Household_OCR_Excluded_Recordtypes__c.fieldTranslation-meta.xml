@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Les types d’enregistrement de contact que vous souhaitez exclure de la création automatique de rôle de contact de membre du foyer. Salesforce empêcherait alors les contacts de recevoir le rôle de contact de membre de foyer lorsque l’opportunité est créée.</help>
+    <label></label>
+    <name>npo02__Household_OCR_Excluded_Recordtypes__c</name>
+</CustomFieldTranslation>

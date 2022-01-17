@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Indien aangevinkt, biedt het systeem automatische naamgeving voor namen voor huishoudens, informele en formele begroetingen.</help>
+    <label></label>
+    <name>npo02__Advanced_Household_Naming__c</name>
+</CustomFieldTranslation>

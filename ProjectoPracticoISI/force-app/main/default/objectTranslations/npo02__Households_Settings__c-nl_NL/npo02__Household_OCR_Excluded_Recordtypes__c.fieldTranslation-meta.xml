@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>De Contactpersoonsrecordtypen die u wilt uitsluiten van het automatisch maken van Contactpersoonsrol lid van huishouden. Van Salesforce krijgen die contactpersonen dan geen Contactpersoonsrol lid van huishouden wanneer de Opportunity wordt gemaakt.</help>
+    <label></label>
+    <name>npo02__Household_OCR_Excluded_Recordtypes__c</name>
+</CustomFieldTranslation>

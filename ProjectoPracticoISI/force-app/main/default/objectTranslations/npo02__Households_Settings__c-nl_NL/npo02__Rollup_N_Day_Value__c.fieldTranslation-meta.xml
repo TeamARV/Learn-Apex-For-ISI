@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Geeft een waarde van totaliseringen voor &apos;N dagen&apos;, waarbij &apos;N&apos; het aantal dagen is vanaf vandaag naar het verleden. De waarde is standaard een totalisering voor de afgelopen 365 dagen.</help>
+    <label></label>
+    <name>npo02__Rollup_N_Day_Value__c</name>
+</CustomFieldTranslation>

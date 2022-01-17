@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>商談の取引先が世帯、1 対 1、または個人の取引先でない場合に、商談の主取引先責任者に自動的に割り当てられるデフォルトの取引先責任者の役割。</help>
+    <label></label>
+    <name>npe01__Opportunity_Contact_Role_Default_role__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>El número de registros que se procesa a la vez cuando al calcular datos estadísticos de donantes. El tamaño predeterminado es de 200. Reduzca a un número menor si Totalizaciones de oportunidades está fallando debido a limites en el sistema.</help>
+    <label></label>
+    <name>npo02__Batch_Size__c</name>
+</CustomFieldTranslation>

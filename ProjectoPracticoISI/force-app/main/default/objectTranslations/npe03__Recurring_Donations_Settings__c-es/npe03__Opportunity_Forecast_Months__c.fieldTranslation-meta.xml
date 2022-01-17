@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Cantidad de meses desde hoy con oportunidades abiertas que se crearán con donaciones recurrentes sin finalización definida. ADVERTENCIA: Al reducirlo se eliminarán oportunidades adicionales. Al aumentarlo iniciará in proceso para agregar oportunidades.</help>
+    <label></label>
+    <name>npe03__Opportunity_Forecast_Months__c</name>
+</CustomFieldTranslation>

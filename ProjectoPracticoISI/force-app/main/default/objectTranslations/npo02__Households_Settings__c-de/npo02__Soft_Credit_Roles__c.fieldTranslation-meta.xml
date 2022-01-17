@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Opportunity-Kontaktrollen, die in Rollups von Soft-Credits einbezogen werden sollen. Klicken Sie zum Auswählen von mehreren Rollen zusätzlich auf die Strg- oder die CMD-Taste.</help>
+    <label></label>
+    <name>npo02__Soft_Credit_Roles__c</name>
+</CustomFieldTranslation>

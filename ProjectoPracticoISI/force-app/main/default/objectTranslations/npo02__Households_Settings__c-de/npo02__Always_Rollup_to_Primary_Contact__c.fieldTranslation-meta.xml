@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Bei aktivierter Option führt Salesforce IMMER einen Rollup zu den Spenderdaten des prim. Kontakts der Opp. und dem Haushalt-Account/-Datensatz durch, auch wenn die Opp. nicht von einer Person stammt. Ohne Aktivierung erhält nur die Organisation Kredit.</help>
+    <label></label>
+    <name>npo02__Always_Rollup_to_Primary_Contact__c</name>
+</CustomFieldTranslation>

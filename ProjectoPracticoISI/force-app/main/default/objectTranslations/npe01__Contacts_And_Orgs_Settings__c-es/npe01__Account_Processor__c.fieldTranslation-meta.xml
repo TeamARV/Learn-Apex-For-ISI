@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Configuración del modelo de cuenta. Debe ser cuenta Hogar, Uno-a-Uno o Individuo. Sustituye el campo personalizado Contact.SystemAccountProcessor__c. La cuenta Hogar es la opción recomendada.</help>
+    <label></label>
+    <name>npe01__Account_Processor__c</name>
+</CustomFieldTranslation>

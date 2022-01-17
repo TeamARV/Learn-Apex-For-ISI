@@ -1,15 +1,25 @@
 <template>
 
-    <lightning-card title="ContactInformation" icon-name="custom:custom14">
+ 
+
+    <lightning-card  title="ContactInformation" icon-name="custom:custom14">
+       <div class="debe1" >
         <div class="slds-m-around_medium">
            <template for:each={contacts} for:item="contact">
               <div key={contact.Id}>
                  {contact.Name}, {contact.Title}
               </div>
+
+
+              <div key={contact.Id} class="name1">
+               <p>This theme has the
+                  <strong>alert texture</strong> added to the default theme and has aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+                  <a href="#">link</a>.</p>
+              </div>
+              
            </template>
         </div>
+      </div>
      </lightning-card>
-    
+   
 </template>
-
-

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Het aantal records dat tegelijk wordt verwerkt bij het berekenen van donorstatistieken. De standaardgrootte is 200. Verminder naar een kleiner aantal wanneer de Opportunitytotaliseringen mislukken wegens systeemlimieten.</help>
+    <label></label>
+    <name>npo02__Batch_Size__c</name>
+</CustomFieldTranslation>

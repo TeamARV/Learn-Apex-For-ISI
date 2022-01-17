@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Cuenta</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Cuenta</value>
+    </caseValues>
+    <fieldSets>
+        <label></label>
+        <name>npsp__BDE_Entry_FS</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>npsp__BDE_List_FS</name>
+    </fieldSets>
+    <fieldSets>
+        <label></label>
+        <name>npsp__Manage_Household_Custom</name>
+    </fieldSets>
+    <gender>Feminine</gender>
+    <layouts>
+        <layout>Account Layout</layout>
+        <sections>
+            <label></label>
+            <section>Vínculos personalizados</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label></label>
+        <name>New_Energy_Audit</name>
+    </quickActions>
+    <recordTypes>
+        <description>Una cuenta que representa un hogar que contiene una o más personas.</description>
+        <label>Cuenta de hogar</label>
+        <name>HH_Account</name>
+    </recordTypes>
+    <recordTypes>
+        <description>Una cuenta que representa una organización</description>
+        <label>Organización</label>
+        <name>Organization</name>
+    </recordTypes>
+    <webLinks>
+        <label></label>
+        <name>Billing</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Map_Location</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>npsp__Manage_Household</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>npsp__New_Gift</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>npsp__Recalculate_Rollups</name>
+    </webLinks>
+</CustomObjectTranslation>

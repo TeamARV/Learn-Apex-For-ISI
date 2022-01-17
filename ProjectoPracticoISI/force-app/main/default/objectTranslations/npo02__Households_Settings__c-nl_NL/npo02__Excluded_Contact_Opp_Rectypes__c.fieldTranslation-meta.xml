@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Opportunities met de geselecteerde recordtypen worden niet opgenomen in totaliseringen naar de Contactpersoon. Gebruik CTRL+klikken of Command+klikken om meer dan één recordtype te selecteren.</help>
+    <label></label>
+    <name>npo02__Excluded_Contact_Opp_Rectypes__c</name>
+</CustomFieldTranslation>
