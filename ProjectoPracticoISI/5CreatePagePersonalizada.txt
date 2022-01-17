@@ -1,0 +1,38 @@
+app builder  or (Generador de aplicación Lightning)
+
+activar el modo debug mode   (Modo de depuración)
+y si se quiere desactivar cacheo en org develop  -- >  session settings  (Configuración de la sesión)  toca para el tema de styles css
+
+paso 1 crear desde crt +shif + p    create lightning web componet
+
+componentes base de guia en 
+https://developer.salesforce.com/docs/component-library/overview/components
+
+
+guia de margenes https://www.lightningdesignsystem.com/
+
+para traducir interfaz segun user (Configuración de idioma de traducción)  translation workbench
+
+
+uso de templates para listar más  easy :  for each :(
+
+https://developer.salesforce.com/docs/component-library/documentation/en/lwc/create_lists
+
+
+OJO  
+
+sintaxis para llamar un componente dentro de otro componente         tarjetaGame ---->  c-tarjeta-game
+
+ojo el modo api
+
+---
+
+ahora la query con apex
+1) crear clase apex
+
+2) probar codigo apex con excute anonymus selection   ---> System.debug(GamesService.GamesService());     nombre de la clase.metodo
+
+3) llamarlo desde el componente 
+
+
+https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.apex_wire_method

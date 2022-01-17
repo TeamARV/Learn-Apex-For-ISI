@@ -22,3 +22,23 @@ Copio y guardo el package generado y lo descargo todo con el comando de abajo
 
 sfdx force:source:retrieve -x .\package.xml
 
+
+
+--------------//----
+
+ver organizaciones 
+
+sfdx force:org:list
+
+cambiar alias 
+sfdx alias:set riveravegaandres@creative-panda-kl5kb9.com = Panda_Limpio
+
+
+sfdx force:org:list
+sfdx auth:web:login
+sfdx alias:set
+
+
+ARREGLAR ALIAS
+
+ sfdx alias:set YourAliaslimpio=riveravegaandres@creative-panda-kl5kb9.com

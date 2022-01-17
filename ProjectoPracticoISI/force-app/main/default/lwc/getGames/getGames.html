@@ -1,0 +1,23 @@
+<template>
+    <!-- comprobar el valor de la variable primeravez -->
+
+    <div class="slds-align_absolute-center">
+        <div class="slds-grid slds-wrap slds-grid_align-spread">
+    <template if:true={misgames.data}>
+    <template for:each={misgames.data} for:item="game">
+        <div key={game.Id}>
+            
+            <p>hola =  {game.Name} </p>
+
+            <c-tarjeta-game gamequemado ={game} 
+            class="slds-col slds-var-m-around_small">
+
+            </c-tarjeta-game>
+
+        </div>
+    </template>
+</template>
+</div>  
+</div>
+    
+</template>

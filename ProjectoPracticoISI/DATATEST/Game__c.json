@@ -1,0 +1,54 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Game__c",
+                "referenceId": "Game__cRef1"
+            },
+            "Imagen__c": "<p><img src=\"https://brave-goat-e0fwkv-dev-ed--c.documentforce.com/servlet/rtaImage?eid=a0x5f000001BocI&amp;feoid=00N5f00000eKD2y&amp;refid=0EM5f000000R5LB\" alt=\"headerelderring.jpg\"></img></p>",
+            "Name": "ELDEN RING",
+            "Plataforma__c": "STEAM",
+            "Precio__c": 207000
+        },
+        {
+            "attributes": {
+                "type": "Game__c",
+                "referenceId": "Game__cRef2"
+            },
+            "Imagen__c": "<p><img src=\"https://brave-goat-e0fwkv-dev-ed--c.documentforce.com/servlet/rtaImage?eid=a0x5f000001BocN&amp;feoid=00N5f00000eKD2y&amp;refid=0EM5f000000R5LG\" alt=\"headerrust.jpg\"></img></p>",
+            "Name": "Rust",
+            "Plataforma__c": "STEAM",
+            "Precio__c": 54500
+        },
+        {
+            "attributes": {
+                "type": "Game__c",
+                "referenceId": "Game__cRef3"
+            },
+            "Imagen__c": "<p><a href=\"https://brave-goat-e0fwkv-dev-ed.my.salesforce.com/sfc/p/5f0000090UJw/a/5f000000g0Zc/AAwlWjngwKt5f8jWHpFSUH_PDqg0khDeHN6OVbOmzDQ\" target=\"_blank\">https://brave-goat-e0fwkv-dev-ed.my.salesforce.com/sfc/p/5f0000090UJw/a/5f000000g0Zc/AAwlWjngwKt5f8jWHpFSUH_PDqg0khDeHN6OVbOmzDQ</a><img src=\"https://brave-goat-e0fwkv-dev-ed--c.documentforce.com/servlet/rtaImage?eid=a0x5f000001BocX&amp;feoid=00N5f00000eKD2y&amp;refid=0EM5f000000R5La\" alt=\"headerbaldur3.jpg\"></img></p>",
+            "Name": "Baldur's Gate 3",
+            "Plataforma__c": "GOG",
+            "Precio__c": 35.28
+        },
+        {
+            "attributes": {
+                "type": "Game__c",
+                "referenceId": "Game__cRef4"
+            },
+            "Imagen__c": "<p><img src=\"https://brave-goat-e0fwkv-dev-ed--c.documentforce.com/servlet/rtaImage?eid=a0x5f000001BocS&amp;feoid=00N5f00000eKD2y&amp;refid=0EM5f000000R5LL\" alt=\"headerFF7R.jpg\"></img></p>",
+            "Name": "FINAL FANTASY VII REMAKE INTERGRADE",
+            "Plataforma__c": "EPIC",
+            "Precio__c": 270000
+        },
+        {
+            "attributes": {
+                "type": "Game__c",
+                "referenceId": "Game__cRef5"
+            },
+            "Imagen__c": "<p><img src=\"https://brave-goat-e0fwkv-dev-ed--c.documentforce.com/servlet/rtaImage?eid=a0x5f000001BocD&amp;feoid=00N5f00000eKD2y&amp;refid=0EM5f000000R5L6\" alt=\"headerWitcher3.jpg\"></img></p>",
+            "Name": "The Witcher® 3: Wild Hunt",
+            "Plataforma__c": "STEAM",
+            "Precio__c": 75000
+        }
+    ]
+}

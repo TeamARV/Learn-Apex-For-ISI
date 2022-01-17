@@ -1,0 +1,25 @@
+
+
+asistente de importación de datos
+data import wizard   (asistente de importación de datos) 
+
+
+o con herramienta de tercero  DATALOADER.import
+
+
+//
+
+
+sfdx force:data:tree:export -q "la query que quiero"
+
+
+EDITOR DE QUERYS  :  SOQL QUERYS builder
+
+ejemplo :
+
+sfdx force:data:tree:export -q "SELECT CreatedById, CreatedDate, CurrencyIsoCode, Id, Imagen__c, IsDeleted, LastActivityDate, LastModifiedById, LastModifiedDate, LastReferencedDate, LastViewedDate, Name, OwnerId, Plataforma__c, Precio__c, SystemModstamp     
+>>   FROM Game__c" -d .\DATATEST\
+
+importar los datos
+
+sfdx force:data:tree:import -p "el jason data plan "

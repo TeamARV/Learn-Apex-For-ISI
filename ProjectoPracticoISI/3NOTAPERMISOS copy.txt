@@ -1,0 +1,44 @@
+
+paso 1 : creo mi org,  (desarrollo or sraschorg)
+paso 2 : despliego codigo
+paso 3 : asigno permisos
+paso 4 : probar la app  con datos de prueba :D
+
+
+manera tradiccional :
+
+primera opcion perfiles or profiles en setup
+
+
+
+
+otros 
+
+permission sets  ( Conjuntos de permisos )
+
+toca revisar documentacion para ver esto :( 
+
+
+recomiendan crear almenos 1 permision set almenos para ver todo
+
+
+
+
+Una de las razones puede ser un conflicto en sus archivos de alias. Puede encontrar la siguiente carpeta en su computadora: %USERPROFILE%/.sfdxy encontrar allí el archivo alias.json. Habría todos sus alias usados ​​y puede investigar si tiene algún conflicto.
+
+
+
+sfdx force:user:permset:assign --permsetname <permset_name> --targetusername <username/alias>
+
+sfdx force:user:permset:assign --permsetname MISPERMISOS          /// al user pordefault que estes
+
+
+limpieza de alias 
+
+
+
+Una de las razones puede ser un conflicto en sus archivos de alias. 
+Puede encontrar la siguiente carpeta en su computadora: 
+%USERPROFILE%/.sfdxy encontrar allí el archivo alias.json. Habría todos sus alias usados ​​y puede investigar si tiene algún conflicto.
+
+

@@ -1,0 +1,8 @@
+[
+    {
+      "sobject": "Game__c",
+      "saveRefs": true,
+      "resolveRefs": false,
+      "files": ["Game__c.json"]
+    }
+  ]
