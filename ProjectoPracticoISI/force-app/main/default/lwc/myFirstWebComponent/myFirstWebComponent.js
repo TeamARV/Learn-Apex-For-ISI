@@ -18,4 +18,18 @@ export default class MyFirstWebComponent extends LightningElement {
             Title: 'CEO',
         },
     ];
+
+
+    mapMarkers = [
+        {
+            location: {
+                Latitude: '4.687569105941844',
+                Longitude: '-74.06013621259233',
+            },
+        },
+    ];
+
+
+
+    
 }

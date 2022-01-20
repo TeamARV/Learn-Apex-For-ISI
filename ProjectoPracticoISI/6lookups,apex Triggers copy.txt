@@ -1,0 +1,19 @@
+trigger que automatiza algo :D
+
+es un parte de codigo apex que se ejecuta cuando se modifica un objeto 
+
+un trigger permite más flexibilidad que una formula 
+
+1 )  crear un objeto auto number    G-{000}   iniciar 1
+
+2) campos y relacions :  
+
+lookup relationship
+master-detail relationship
+
+Relación principal-detalle   ---> relacion fuerte no tiene sentido sin maestro
+Relación de búsqueda  --->
+
+3) crear la tab (ficha)
+
+4) ctr +shif p. .....  sfdx create apex trigger

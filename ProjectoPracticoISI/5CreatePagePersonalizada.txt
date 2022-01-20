@@ -36,3 +36,17 @@ ahora la query con apex
 
 
 https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.apex_wire_method
+
+
+
+documentacion 
+
+https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.use_navigate_page_types
+
+
+NOTAS:
+
+para llamar a un metodo apex que trae info del server  hay dos formas:
+
+de forma imperativa
+con el wire        ----> delega la invocacion del metodo a un servicio de tipo similar a un usseeffect de react

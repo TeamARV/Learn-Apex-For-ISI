@@ -3,14 +3,29 @@
       
 
     <lightning-card  title={gamequemado.Name}>
-        <lightning-button label="SOY UN BOTÖN" slot="actions"></lightning-button>
+
+        <lightning-button label="Botoón  con el navigationmix " slot="actions" onclick={navigateToObjectHome}></lightning-button>
+
+        <lightning-button label="test " slot="actions" onclick={navigateToWebPage}></lightning-button>
+
+     
+
+
         <p class="slds-var-p-horizontal_small">Card Body (custom component)</p>
         <img
         class="slds-m-around_large slds-p-around_small"
           src={gamequemado.Foto__c}
           alt=none
         />
-        <p slot="footer">DISPONIBLE EN {gamequemado.Plataforma__c}</p>
+        <p slot="footer">DISPONIBLE EN {gamequemado.Plataforma__c}
+          <template if:true={isPlatformSteam}>  :D  
+            <lightning-icon
+            icon-name="utility:thunder">
+          </lightning-icon>
+          </template>
+        </p>
+
+        
     </lightning-card>
 
 

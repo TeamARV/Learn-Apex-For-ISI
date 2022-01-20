@@ -3,7 +3,7 @@ public with sharing class GamesService {
     public static List<Game__c> GamesService() {
 
         return [
-            SELECT Id, Name,Foto__c
+            SELECT Id, Name,Foto__c,Plataforma__c
             FROM Game__c
       
           ];
