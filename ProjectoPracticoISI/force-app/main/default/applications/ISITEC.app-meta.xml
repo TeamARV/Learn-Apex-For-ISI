@@ -15,6 +15,7 @@
     <navType>Standard</navType>
     <tabs>Inventario__c</tabs>
     <tabs>page1</tabs>
+    <tabs>dummy__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>ISITEC_UtilityBar</utilityBar>
 </CustomApplication>

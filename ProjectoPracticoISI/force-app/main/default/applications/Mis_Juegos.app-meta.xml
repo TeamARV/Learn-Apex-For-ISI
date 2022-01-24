@@ -11,10 +11,15 @@
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
-    <label>Mis Juegos</label>
+    <label>🎮Mis Juegos</label>
     <navType>Standard</navType>
     <tabs>Game__c</tabs>
+    <tabs>Pruebas</tabs>
     <tabs>page1</tabs>
+    <tabs>Listado</tabs>
+    <tabs>Migame__c</tabs>
+    <tabs>TOOL</tabs>
+    <tabs>dummy__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Mis_Juegos_UtilityBar</utilityBar>
 </CustomApplication>

@@ -68,7 +68,7 @@ async fetchData(){
 formatData(result){    
  let individualSum={}       
  result.features.forEach(data => {
-      let item = data.attributes;
+      let item = data["attributes"];
       
       let obj = {
         Confirmed: item.Confirmed,
@@ -127,17 +127,17 @@ formatData(result){
 getFRate(item){
         if(item){
         return (item.Deaths / item.Confirmed)*100
-        } 
+        } else {
         return (this.total.total_deaths/this.total.total_confirmed)*100
-        
+        }
         
 }
 getRRate(item){
         if(item){
                 return (item.Recovered / item.Confirmed)*100
-        } 
+        } else {
              return (this.total.total_recovered/this.total.total_confirmed)*100   
-        
+        }
         
 }
 
@@ -152,7 +152,6 @@ generateCountryList(finalData){
 /***Chart Initialization */
 initializeChart(){
         let container = this.template.querySelector('.chartContainer')
-        // eslint-disable-next-line no-undef
         Highcharts.chart(container, {
     chart: {
         type: 'column'
@@ -219,7 +218,6 @@ triggerCharts(){
         this.graphData = status.map(item=>{
             return {name:item,color:colors[item],y: country[0][item]}})
             console.log(JSON.stringify(this.graphData))
-            // eslint-disable-next-line @lwc/lwc/no-async-operation
             window.setTimeout(()=>{
                         this.initializeChart()
                  },1000)

@@ -12,8 +12,12 @@
     <tabs>standard-Contact</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Order</tabs>
+    <tabs>dummy__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
+        <mappings>
+            <tab>dummy__c</tab>
+        </mappings>
         <mappings>
             <tab>page1</tab>
         </mappings>

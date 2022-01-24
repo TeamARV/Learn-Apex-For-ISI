@@ -1,0 +1,57 @@
+
+
+
+
+
+Http h = new Http();
+        HttpRequest req = new HttpRequest();
+        // url that returns the XML in the response body
+        req.setEndpoint('https://th-apex-http-callout.herokuapp.com/animals');
+        req.setMethod('GET');
+        HttpResponse res = h.send(req);
+        //Dom.Document doc = res.getBodyDocument();
+        
+        //Retrieve the root element for this document.
+        //Dom.XMLNode address = doc.getRootElement();
+
+        System.debug(res);
+
+        
+
+        Http http = new Http();
+HttpRequest request = new HttpRequest();
+request.setEndpoint('https://www.donorperfect.net/prod/xmlrequest.asp?apikey=SeqE69G2ov3RrUYBIT6CFFOfEOyt0XlwTPhlcT7MRwH6YYPqXXAXjCeL5FtPZ%2fk8eUwK%2bj5QLMwHb0I8NvUsKaiD5SPU5FwEYd4R4P%2fwKtcxP6JWm9EUS1RVIGqI4NBx&action=SELECT%20*%20FROM%20SYSOBJECTS%20WHERE%20XTYPE=%27U%27');
+request.setMethod('GET');
+HttpResponse response = http.send(request);
+// If the request is successful, parse the JSON response.
+
+ 
+
+ 
+
+  
+Http http = new Http();
+HttpRequest request = new HttpRequest();
+request.setEndpoint('https://www.donorperfect.net/prod/xmlrequest.asp?apikey=SeqE69G2ov3RrUYBIT6CFFOfEOyt0XlwTPhlcT7MRwH6YYPqXXAXjCeL5FtPZ%2fk8eUwK%2bj5QLMwHb0I8NvUsKaiD5SPU5FwEYd4R4P%2fwKtcxP6JWm9EUS1RVIGqI4NBx&action=SELECT%20*%20FROM%20SYSOBJECTS%20WHERE%20XTYPE=%27U%27');
+request.setMethod('GET');
+HttpResponse response = http.send(request);
+
+
+system.debug(response.getBody());
+
+
+
+DOM.Document document = new DOM.Document();
+document.load(whatAmI);
+String taskId = document.getRootElement()
+    .getChildElement('task', null)
+    .getAttribute('id', null);
+system.debug(document.getRootElement());
+
+
+
+
+
+   
+
+     system.debug(pedir.getdataA());

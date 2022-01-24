@@ -19,4 +19,5 @@
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
     <tabs>Energy_Audit__c</tabs>
+    <tabs>dummy__c</tabs>
 </CustomApplication>
